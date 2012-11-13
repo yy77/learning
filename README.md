@@ -1,4 +1,5 @@
 learning
 ========
 
-sample of learning different language
+sample of learning different language including below:
+* Node JS
